@@ -2,7 +2,7 @@
  *@author DEO
  * @Version 1.0
  */
-public class PalindromeCheck {
+public class PalindromeCheckerApp {
 
     public static void main(String[] args) {
 
